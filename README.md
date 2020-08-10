@@ -7,7 +7,7 @@
 <img alt="counter" src="https://encj6tx5kstrvc9.m.pipedream.net">
 </p>
 
-Hey, I'm Karim—a self-taught programmer, supporter, and freelancer, open to collaborate to open source projects. Part of [@mozakrty](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Coursera - Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and recently finished it up in a week. Currently working on [GuessWho](https://github.com/users/devkarim/projects/1) project. Hoping to make the world a better place someday.
+Hey, I'm Karim—a self-taught programmer, supporter, and freelancer, open to contribute to open source projects. Part of [@mozakrty](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Coursera - Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and finished it up in a week. Currently working on [GuessWho](https://github.com/users/devkarim/projects/1) project. Lastly, hoping to make the world a better place someday.
 
 ### 💻 Experienced at
 - Automation.
