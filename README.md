@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center"><img width=150 height=150 src="https://i.imgur.com/D5vW1mv.png"/></p>
 
-<!--
-**devkarim/devkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Karim —❖— @devkarim
+<p>
+&nbsp <a href="https://www.linkedin.com/in/devkarim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devkarim-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:karimsukr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karimsukr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<img alt="counter" src="https://encj6tx5kstrvc9.m.pipedream.net">
+</p>
 
-Here are some ideas to get you started:
+Hey, I'm Karim—a self-taught programmer, supporter, and freelancer, open to collaborate to open source projects. Part of [@mozakrty](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Coursera - Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and recently finished it up in a week. Currently working on [GuessWho](https://github.com/users/devkarim/projects/1) project. Hoping to make the world a better place someday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Experienced at
+- Automation.
+- Web Scraping.
+- Selenium.
+- Python | Lua | JavaScript | Java.
+
+### 🌱 Still learning
+- Web development.
+- Flutter and React Native.
+- SocketIO and ExpressJS.
+- Artificial intelligence algorithms.
+- Dart | C#.
