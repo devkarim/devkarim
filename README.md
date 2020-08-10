@@ -2,7 +2,7 @@
 
 ### 👋 Karim —❖— @devkarim
 <p>
-&nbsp <a href="https://www.linkedin.com/in/devkarim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devkarim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/devkarim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devkarim-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:karimsukr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karimsukr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <img alt="counter" src="https://encj6tx5kstrvc9.m.pipedream.net">
 </p>
