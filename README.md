@@ -13,11 +13,11 @@ Hey, I'm Karim—a self-taught programmer, supporter, and freelancer, open to co
 - Automation.
 - Web Scraping.
 - Selenium.
-- Python | Lua | JavaScript | Java.
+- Flutter.
+- Python | Lua | JavaScript | Java | Dart.
 
 ### 🌱 Still learning
 - Web development.
-- Flutter and React Native.
 - SocketIO and ExpressJS.
 - Artificial intelligence algorithms.
-- Dart | C#.
+- C#.
