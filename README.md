@@ -7,7 +7,7 @@
 <img alt="counter" src="https://encj6tx5kstrvc9.m.pipedream.net">
 </p>
 
-Hey, I'm Karim—a self-taught programmer, supporter, and freelancer, open to contribute to open source projects. Part of [@mozakrty](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and finished it up in a week. Currently working with @mozakrtna organization. Lastly, hoping to make the world a better place someday.
+Hey, I'm Karim—a self-taught programmer and freelancer, open to contribute to open source projects. Part of [@mozakrtna](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and finished it up in a week. Took part also in [AI Programming with Python](https://graduation.udacity.com/confirm/DYCCM76P) and finished it in almost a week. Hoping I would make a noticeable difference to AI general concept.
 
 ### 💻 Experienced at
 - Automation.
