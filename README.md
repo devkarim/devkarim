@@ -8,7 +8,7 @@
 </p>
 <a href="https://www.buymeacoffee.com/devkarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-&nbsp;
+## Me
 
 Hey, I'm Karim—a self-taught programmer and freelancer, open to contribute to open source projects. Part of [@mozakrtna](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and finished it up in a week. Took part also in [AI Programming with Python](https://graduation.udacity.com/confirm/DYCCM76P) and finished it in almost a week as I'm mostly interested in that area. I hope I would make a noticeable difference to AI general concept someday.
 
