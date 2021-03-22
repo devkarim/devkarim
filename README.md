@@ -21,3 +21,14 @@ Hey, I'm Karim—a self-taught programmer and freelancer, open to contribute to 
 - SocketIO and ExpressJS.
 - Artificial intelligence algorithms.
 - C#.
+
+## Donate
+
+You can buy me a coffee or become a patron from here:
+
+<span>
+<a href="https://www.buymeacoffee.com/devkarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.patreon.com/devkarim" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="40px" alt="Become a patron" ></a>
+</span>
+
+Every donation is appreciated. Thanks for your support!
