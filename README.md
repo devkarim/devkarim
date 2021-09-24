@@ -1,4 +1,4 @@
-<p align="center"><img width=150 height=150 src="https://i.imgur.com/D5vW1mv.png"/></p>
+<p align="center"><img width=195 height=175 src="https://i.imgur.com/mK9LSk9.png"/></p>
 
 ### 👋 Karim —❖— @devkarim
 <p>
