@@ -10,17 +10,18 @@
 
 ## Me
 
-Hey, I'm Karim—a self-taught programmer and freelancer, open to contribute to open source projects. Part of [@mozakrtna](https://github.com/Mozakrty) organization in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. Took part in [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/DAKTLXVECBGE) course and finished it up in a week. Took part in [AI Programming with Python](https://graduation.udacity.com/confirm/DYCCM76P) too and finished it in almost a week as I'm mostly interested in that area. I hope I would make a noticeable difference to AI general concept someday.
+Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & undergraduate engineering student. Worked as a freelancer for a year, I really liked that area and I hope I would carry on with that. I'm a part of [@mozakrtna](https://github.com/Mozakrty) & [@elyra](https://elyra.games) organizations in addition to being a long-term developer in [CIT](https://cit2.net/) community. Feel free to contact me for contrubitions to open-source projects. I'm also a part of NextCoders program in Egypt, I was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. At the moment, I'm mostly interested in AI and I wish I would make a noticeable difference to its general concept someday.
 
 ### 💻 Experienced at
 - Automation.
 - Web Scraping.
 - Selenium.
 - Flutter.
-- Python | Lua | JavaScript | TypeScript | Dart
+- Python | Lua | JavaScript | TypeScript | Dart.
 - Front-end development.
 - Express backend.
 - ReactJS.
+- TailwindCSS.
 
 ### 🌱 Still learning
 - Websockets.
@@ -30,6 +31,9 @@ Hey, I'm Karim—a self-taught programmer and freelancer, open to contribute to 
 
 ### ✨ Projects I'm currently working on
 - [Codershot](https://codershot.com) - will be open-source once I finish it up.
+
+### ✔️ Projects I've worked on
+- [Elyra Games](https://elyra.games/word)
 
 ## Donate
 
