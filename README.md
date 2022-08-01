@@ -12,22 +12,24 @@
 
 Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & undergraduate engineering student. Worked as a freelancer for a year, I really liked that area and I hope I would carry on with that. I'm a part of [@mozakrtna](https://github.com/Mozakrty) & [@elyra](https://elyra.games) organizations in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, I was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. At the moment, I'm mostly interested in AI and I wish I would make a noticeable difference to its general concept someday. Feel free to contact me for contrubitions to open-source projects.
 
-### 💻 Experienced at
+### 💻 Proficient
 - Automation.
 - Web Scraping.
 - Selenium.
 - Flutter.
-- Python | Lua | JavaScript | TypeScript | Dart.
-- Front-end development.
-- Express backend.
+- Python | Lua | JavaScript | TypeScript | Dart | CSS | HTML.
 - ReactJS.
+- Node.js & Express as Backend.
 - TailwindCSS.
+- React Native Managed Workflow (Expo).
+- NextJS.
 
-### 🌱 Still learning
+### 🌱 Moderate
 - Websockets.
 - Artificial intelligence algorithms.
-- C#.
+- Java | C#.
 - Electron.
+- PostgreSQL.
 
 ### ✨ Projects I'm currently working on
 - [Codershot](https://codershot.com) - will be open-source once I finish it up. Check [this](https://dev.codershot.com) for live development!
