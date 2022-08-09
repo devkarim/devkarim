@@ -33,7 +33,7 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 
 ### ✨ Projects I'm currently working on
 - [Codershot](https://codershot.com) - will be open-source once I finish it up. Check [this](https://dev.codershot.com) for live development!
-- [My Website](https://karimwael.com) - [repo](https://github.com/devkarim/portfolio). Check [this](https://karimwael.com) for live development!
+- [My Website](https://karimwael.com) ([repo](https://github.com/devkarim/portfolio)). Check [this](https://karimwael.com) for live development!
 
 ### ✔️ Projects I've worked on
 - [Elyra Games](https://elyra.games/word) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
