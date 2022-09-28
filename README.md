@@ -16,8 +16,7 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 - Automation.
 - Web Scraping.
 - Selenium.
-- Flutter.
-- Python | Lua | JavaScript | TypeScript | Dart | CSS | HTML.
+- Python | Lua | JavaScript | TypeScript | CSS | HTML.
 - ReactJS.
 - Node.js & Express as Backend.
 - TailwindCSS.
@@ -27,7 +26,8 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 ### 🌱 Moderate
 - Websockets.
 - Artificial intelligence algorithms.
-- Java | C#.
+- Flutter.
+- Java | C# | Dart.
 - Electron.
 - PostgreSQL.
 
