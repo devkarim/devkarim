@@ -34,7 +34,7 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 ### ✨ Projects I'm currently working on
 - [Codershot](https://codershot.com) - will be open-source once I finish it up. Website is currently down, it will be up soon.
 - [My Website](https://karimwael.com) ([repo](https://github.com/devkarim/portfolio)). Check [this](https://karimwael.com) for live development!
-- Red Mobile ([repo](https://github.com/devkarim/red-mobile/)). Will be available on Play Store once ready.
+- Red Mobile ([repo](https://github.com/devkarim/red-mobile/)). Will be available on Google Play Store once ready.
 
 ### ✔️ Projects I've worked on
 - [Elyra Games](https://elyra.games/word) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
