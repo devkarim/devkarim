@@ -37,7 +37,7 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 - Red Mobile ([repo](https://github.com/devkarim/red-mobile/)). Will be available on Google Play Store once ready.
 
 ### ✔️ Projects I've worked on
-- [Elyra Games](https://elyra.games/word) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
+- [Elyra Games](https://elyragames.netlify.app/word) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
 - [Polls](https://polls.karimwael.com) ([repo](https://github.com/devkarim/polls))
 
 ## Donate
