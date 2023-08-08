@@ -39,6 +39,8 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 ### ✔️ Projects I've worked on
 - [Elyra Games](https://elyragames.netlify.app) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
 - [Polls](https://polls.karimwael.com) ([repo](https://github.com/devkarim/polls))
+- [Admin Store](https://admin.ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake-admin))
+- [Store](https://ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake))
 
 ## Donate
 
