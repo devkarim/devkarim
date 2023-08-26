@@ -41,7 +41,8 @@ Hey, I'm Karim—an Egyptian self-taught programmer of 6 years of experience & E
 - [Polls](https://polls.karimwael.com) ([repo](https://github.com/devkarim/polls))
 - [Admin Store](https://admin.ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake-admin))
 - [Store](https://ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake))
-
+- [Spotify Clone](https://spotify-clone.karimwael.com) ([repo](https://github.com/devkarim/spotify-clone))
+  
 ## Donate
 
 Become a patron from here:
