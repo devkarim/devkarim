@@ -10,7 +10,7 @@
 
 ## Me
 
-Hey, I'm Karim—an Egyptian self-taught programmer since 2016 & ECE student. Worked as a freelancer for a year, I really liked that area and I hope I would carry on with that. I'm a part of [@mozakrtna](https://github.com/Mozakrty) & [@elyra](https://elyra.games) organizations in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, I was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. At the moment, I'm mostly interested in AI and I wish I would make a noticeable difference to its general concept someday. Feel free to contact me for contrubitions to open-source projects.
+Hey, I'm Karim—a Full-Stack self-taught programmer since 2016 & ECE student. Worked as a freelancer for a year, I really liked that area and I hope I would carry on with that. I'm a part of [@mozakrtna](https://github.com/Mozakrty) & [@elyra](https://elyra.games) organizations in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, I was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. At the moment, I'm mostly interested in Frontend Development & AI and I wish I would make a noticeable difference to its general concept someday. Feel free to contact me for contrubitions to open-source projects.
 
 ### 💻 Proficient
 - Automation.
