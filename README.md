@@ -37,12 +37,13 @@ Hey, I'm Karim—a Full-Stack self-taught programmer since 2016 & ECE student. W
 - Red Mobile ([repo](https://github.com/devkarim/red-mobile/)). Will be available on Google Play Store once ready.
 
 ### ✔️ Projects I've worked on
-- [Elyra Games](https://elyragames.netlify.app) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
-- [Polls](https://polls.karimwael.com) ([repo](https://github.com/devkarim/polls))
+- [Discord Clone](https://discord-clone.karimwael.com) ([repo](https://github.com/devkarim/discord-clone))
+- [Spotify Clone](https://spotify-clone.karimwael.com) ([repo](https://github.com/devkarim/spotify-clone))
 - [Admin Store](https://admin.ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake-admin))
 - [Store](https://ecommerce-fake.karimwael.com) ([repo](https://github.com/devkarim/ecommerce-fake))
-- [Spotify Clone](https://spotify-clone.karimwael.com) ([repo](https://github.com/devkarim/spotify-clone))
-  
+- [Elyra Games](https://elyragames.netlify.app) ([repo](https://github.com/ElyraTeam/MinigamesWeb))
+- [Polls](https://polls.karimwael.com) ([repo](https://github.com/devkarim/polls))
+
 ## Donate
 
 Become a patron from here:
