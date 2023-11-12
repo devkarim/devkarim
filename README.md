@@ -10,7 +10,13 @@
 
 ## Me
 
-Hey, I'm Karim—a Full-Stack self-taught programmer since 2016 & ECE student. Worked as a freelancer for a year, I really liked that area and I hope I would carry on with that. I'm a part of [@mozakrtna](https://github.com/Mozakrty) & [@elyra](https://elyra.games) organizations in addition to being a long-term developer in [CIT](https://cit2.net/) community. I'm also a part of NextCoders program in Egypt, I was one of the top three who finished their [course](https://graduation.udacity.com/confirm/MERE275A) up which resulted in Egypt's Minister of Communications honoring. At the moment, I'm mostly interested in Frontend Development & AI and I wish I would make a noticeable difference to its general concept someday. Feel free to contact me for contrubitions to open-source projects.
+Hey there, I'm Karim—a self-taught Full-Stack Software Developer since 2016 and currently studying Electronics and Communication Engineering at the undergraduate level and working as a freelancer on Upwork. I've delved into the world of freelancing for a year and developed a deep passion for it, aspiring to continue down that path. I have a strong interest in freelancing and my dream is to establish my own freelancing agency in the future.
+
+I contributed to [@mozakrtna](https://github.com/Mozakrtna) and [@elyra](https://github.com/ElyraTeam) organizations and have been part of the [CIT](http://cit.gg) community for a long time. I was recognized by the Minister of Communications for finishing this [course](https://graduation.udacity.com/confirm/MERE275A) where I ranked among the top three. This recognition resulted in an honor from Egypt's Minister of Communications and being featured on television.
+
+My current focus lies in Frontend Development and some AI. I take pride in creating both unique projects and popular clones with my personal touch. Right now, I'm working on several projects like a Notion clone and a Discord clone, with more ideas in mind.
+
+Feel free to reach out if you're interested in collaborating on open-source projects. Let's create something awesome together!
 
 ### 💻 Proficient
 - Automation.
