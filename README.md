@@ -10,7 +10,7 @@
 
 ## Me
 
-Hey there, I'm Karim—a self-taught Full-Stack Software Developer since 2016 and currently studying Electronics and Communication Engineering at the undergraduate level and working as a freelancer on Upwork. I've delved into the world of freelancing for a year and developed a deep passion for it, aspiring to continue down that path. I have a strong interest in freelancing and my dream is to establish my own freelancing agency in the future.
+Hey there, I'm Karim—a self-taught Full-Stack Software Developer since 2016 and currently studying Electronics and Communication Engineering at the undergraduate level and working as a freelancer on Upwork. I've delved into the world of freelancing for 2 years and developed a deep passion for it, aspiring to continue down that path. I have a strong interest in freelancing and my dream is to establish my own freelancing agency in the future.
 
 I contributed to [@mozakrtna](https://github.com/Mozakrtna) and [@elyra](https://github.com/ElyraTeam) organizations and have been part of the [CIT](http://cit.gg) community for a long time. I was recognized by the Minister of Communications for finishing this [course](https://graduation.udacity.com/confirm/MERE275A) where I ranked among the top three. This recognition resulted in an honor from Egypt's Minister of Communications and being featured on television.
 
