@@ -8,7 +8,7 @@
 </a>
 </p>
 
-Hi, I’m Karim. I started programming in 2016 and explored different areas like desktop, mobile, and web development. These days, I focus mainly on backend development and a little AI. I enjoy building unique projects as well as recreating popular ones with my personal touch to learn how big companies operate. I’ve also been freelancing for two years on platforms like Upwork, Freelancer.com, and LinkedIn, which has become a true passion of mine. My goal is to travel abroad and discover new opportunities.
+Hi, I’m Karim. I started programming in 2016 and explored different areas like desktop, mobile, and web development. These days, I focus mainly on backend development with some interest in AI. I enjoy building unique projects as well as recreating popular ones with my personal touch to learn how big companies operate. I’ve also been freelancing for two years on platforms like Upwork, Freelancer.com, and LinkedIn, and collaborated with startups to build websites from the ground up—a passion I truly enjoy. My goal is to travel abroad and discover new opportunities.
 
 I’ve contributed to organizations like [@mozakrtna](https://github.com/Mozakrtna) and [@elyra](https://github.com/ElyraTeam) and I’ve been an active member of the [CIT](http://cit.gg) community for a long time. One of my achievements was being recognized by Egypt’s Minister of Communications for completing this [course](https://graduation.udacity.com/confirm/MERE275A) where I ranked in the top three and even appeared on TV.
 
@@ -17,6 +17,7 @@ Feel free to reach out if you're interested in collaborating on open-source proj
 ## Me
 
 ### Currently Learning
+- Backend Engineering.
 - Advanced Java.
 - Java Spring.
 - Databases Internals.
