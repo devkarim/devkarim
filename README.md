@@ -10,7 +10,7 @@
 
 Hi, I’m Karim. I started programming in 2016 and explored different areas like desktop, mobile, and web development. These days, I focus mainly on backend development with some interest in AI. I enjoy building unique projects as well as recreating popular ones with my personal touch to learn how big companies operate. I’ve also been freelancing for two years on platforms like Upwork, Freelancer.com, and LinkedIn, and collaborated with startups to build websites from the ground up—a passion I truly enjoy. My goal is to travel abroad and discover new opportunities.
 
-I’ve contributed to organizations like [@mozakrtna](https://github.com/Mozakrtna) and [@elyra](https://github.com/ElyraTeam) and I’ve been an active member of the [CIT](http://cit.gg) community for a long time. One of my achievements was being recognized by Egypt’s Minister of Communications for completing this [course](https://graduation.udacity.com/confirm/MERE275A) where I ranked in the top three and even appeared on TV.
+I’ve contributed to organizations like [@mozakrtna](https://github.com/Mozakrtna) and [@elyra](https://github.com/ElyraTeam) and I’ve been an active member of the [CIT](http://cit.gg) community for a long time. One of my achievements was being recognized by Egypt’s Minister of Communications for completing a [course](https://graduation.udacity.com/confirm/MERE275A) (link does not work due to Udacity updates) where I ranked in the top three and even appeared on TV.
 
 Feel free to reach out if you're interested in collaborating on open-source projects.
 
@@ -65,7 +65,6 @@ Feel free to reach out if you're interested in collaborating on open-source proj
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>  
 
@@ -78,6 +77,7 @@ Feel free to reach out if you're interested in collaborating on open-source proj
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>  
 
 
